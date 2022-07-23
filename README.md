@@ -15,7 +15,7 @@ In order to access the **Spotify API**, you need credentials, a Client ID and a 
 
 In the this **[link](https://www.avermedia.com/us/creator_central_spotify)**, you can learn how to setup a **Spotify App**.
 
-You can store your credentials in a **.env** file:
+You can store your credentials in a **`.env`** file:
 
 ```bash
 SPOTIFY_CLIENT_ID=<EXMPLE>
