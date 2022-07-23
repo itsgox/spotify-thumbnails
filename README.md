@@ -1,4 +1,4 @@
-## How to fetch Spotify Thumbnails using JavaScript
+# How to fetch Spotify Thumbnails using JavaScript
 
 ### **`#1`** Installing NPM packages
 
